@@ -1,0 +1,12 @@
+# Superpowers pipeline artifacts stay out of git
+.superpowers/
+docs/superpowers/
+brainstorms/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
