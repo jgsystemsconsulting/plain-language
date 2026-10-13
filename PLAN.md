@@ -23,7 +23,7 @@ Mirrors simplified-technical-english:
 SKILL.md                  distilled rules and procedure, about 120 lines
 references/rules.md       full rule set, each rule with a before-and-after pair
 references/word-list.md   simple-first substitutions and a jargon watch list
-references/reading-level.md   formulas and target scores
+references/reading-level.md   formulas, report-only grade, honest limits
 scripts/plain_check.py    the checker
 examples/before-after.md  six to eight worked pairs
 LICENSE, NOTICE.md, README.md, PLAN.md
@@ -43,7 +43,7 @@ Scope section (apply to documentation, policy text, instructions, and reports; n
 
 ### WP3: references
 
-rules.md states each rule with one before-and-after pair. word-list.md carries a simple-first substitutions table (it reuses the STE substitutions where the two standards agree, since plain language and STE overlap heavily on wordiness) plus a jargon watch list for legal, policy, and bureaucratic registers. reading-level.md documents the formulas, the grade targets per register, and the honest limits of readability scores.
+rules.md states each rule with one before-and-after pair. word-list.md carries a simple-first substitutions table (it reuses the STE substitutions where the two standards agree, since plain language and STE overlap heavily on wordiness) plus a jargon watch list for legal, policy, and bureaucratic registers. reading-level.md documents the formulas, the report-only grade, and the honest limits of readability scores; audience-tuned grade targets stay deferred to 1.1 per the non-goals.
 
 ### WP4: examples
 
