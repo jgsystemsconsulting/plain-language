@@ -1,6 +1,6 @@
 # plain-language
 
-A skill that writes and rewrites text in plain language, built the same way as our Simplified Technical English skill: distilled rules in SKILL.md, reference files with the full guidance, worked examples, and a mechanical checker script. The basis is the US Federal Plain Language Guidelines and ISO 24495-1:2023 Plain language, Part 1, which this project cites and paraphrases but does not reproduce.
+A skill that writes and rewrites text in plain language. It follows the same layout as our Simplified Technical English skill: rules in SKILL.md, reference files, worked examples, and a mechanical checker. The basis is the US Federal Plain Language Guidelines and ISO 24495-1:2023. This project cites and paraphrases that standard. It does not reproduce it.
 
 Status: planned. See [PLAN.md](PLAN.md) for the work plan. No skill content exists yet; the repository starts as the scaffold the plan describes.
 
